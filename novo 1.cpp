@@ -3,7 +3,7 @@
 int main(){
 
 	float Num1, Num2, soma;
-
+//C++ é insano
 
 	std::cout << "Digite o primeiro numero" << "\n";
 	std::cin >> Num1;
